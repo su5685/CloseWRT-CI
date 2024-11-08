@@ -38,7 +38,7 @@ UPDATE_PACKAGE "vnt" "lazyoop/networking-artifact" "main" "pkg"
 
 
 UPDATE_PACKAGE "pgyvpn" "OrayOS/OpenOray" "main" "pkg"
-UPDATE_PACKAGE "luci-app-pgyvpn" "OrayOS/OpenOray" "main" "pkg"
+UPDATE_PACKAGE "luci-app-pgyvpn" "OrayOS/OpenOray" "main"
 
 if [[ $WRT_BRANCH == *"23.05"* ]]; then
 	UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"

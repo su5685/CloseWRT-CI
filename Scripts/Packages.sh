@@ -36,6 +36,8 @@ UPDATE_PACKAGE "luci-app-wolplus" "VIKINGYFY/luci-app-wolplus" "main"
 UPDATE_PACKAGE "easytier" "lazyoop/networking-artifact" "main" "pkg"
 UPDATE_PACKAGE "vnt" "lazyoop/networking-artifact" "main" "pkg"
 
+UPDATE_PACKAGE "lucky" "gdy666/luci-app-lucky" "main" "pkg"
+UPDATE_PACKAGE "luci-app-lucky" "gdy666/luci-app-lucky" "main"
 
 UPDATE_PACKAGE "pgyvpn" "OrayOS/OpenOray" "main" "pkg"
 UPDATE_PACKAGE "luci-app-pgyvpn" "OrayOS/OpenOray" "main"

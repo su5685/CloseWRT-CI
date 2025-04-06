@@ -3,6 +3,9 @@ CONFIG_PACKAGE_luci-app-wireguard=y
 CONFIG_PACKAGE_luci-app-https-dns-proxy=y
 CONFIG_PACKAGE_luci-app-mtwifi-cfg=y
 CONFIG_PACKAGE_luci-app-turboacc-mtk=y
+CONFIG_PACKAGE_luci-app-eqos-mtk=n
+CONFIG_PACKAGE_luci-app-upnp-mtk-adjust=n
+CONFIG_PACKAGE_luci-app-wrtbwmon=n
 #删除插件
 CONFIG_PACKAGE_luci-app-wol=n
 CONFIG_PACKAGE_luci-app-ddns=n

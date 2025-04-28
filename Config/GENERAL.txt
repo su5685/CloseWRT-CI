@@ -2,7 +2,7 @@
 #增加插件
 CONFIG_PACKAGE_luci-proto-wireguard=y
 CONFIG_PACKAGE_luci-app-ddns-go=y
-CONFIG_PACKAGE_luci-app-https-dns-proxy=y
+CONFIG_PACKAGE_luci-app-smartdns=y
 CONFIG_PACKAGE_luci-app-mwan3=y
 CONFIG_PACKAGE_luci-app-filemanager=y
 CONFIG_PACKAGE_luci-app-ttyd=y
